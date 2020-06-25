@@ -1,4 +1,4 @@
-# KBD8X-MKII-Plates
+# KBD8X MKII Plates
 Approximated recreations of the two plates for the KBDfans KBD8X MKII designed by ai03, also provided are two more aesthetically pleasing versions for use in the Polycarbonate versions. There will be some inevitable difference in flex between all of the variants provided.
 
 
