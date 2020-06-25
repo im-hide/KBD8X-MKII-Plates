@@ -1,7 +1,7 @@
 # KBD8X MKII Plates
 Approximated recreations of the two plates for the KBDfans KBD8X MKII designed by ai03, also provided are two more aesthetically pleasing versions for use in the Polycarbonate versions. There will be some inevitable difference in flex between all of the variants provided.
 
-
+![alt text](https://raw.githubusercontent.com/im-hide/KBD8X-MKII-Plates/master/8x%20plate%20preview.png "KBD8X Full Plate Logo")
 
 These files are provided without warranty or liability, I have not, and cannot confirm their functionality or compatibility with the KBD8X or any other keyboard. These files were created using various pictures of the two plate variants and the publicly available version of the KBD8X MKII plate made available by ai03 here:
 
