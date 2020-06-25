@@ -34,3 +34,14 @@ ai03's Open Source Plate File Clauses
 
 - This clause may be updated at any time. The latest version available will 
   apply regardless of which version the files were obtained with.
+  
+## Plate Images
+
+#### Full Plate w/ Logo (KBD8X-Full-Plate-Pretty.dxf)
+![alt text](https://raw.githubusercontent.com/im-hide/KBD8X-MKII-Plates/master/KBD8X%20Full%20Plate%20Pretty.png "Full Plate Pretty")
+#### Full Plate Normal (KBD8X-Full-Plate.dxf)
+![alt text](https://raw.githubusercontent.com/im-hide/KBD8X-MKII-Plates/master/KBD8X%20Full%20Plate.png "Full Plate True")
+#### Half Plate w/ Logo (KBD8X-Half-Plate-Pretty.dxf)
+![alt text](https://raw.githubusercontent.com/im-hide/KBD8X-MKII-Plates/master/KBD8X%20Half%20Plate%20Pretty.png "Half Plate Pretty")
+#### Half Plate Normal (KBD8X-Half-Plate.dxf)
+![alt text](https://raw.githubusercontent.com/im-hide/KBD8X-MKII-Plates/master/KBD8X%20Half%20Plate.png "Half Plate True")
